@@ -7,6 +7,8 @@
 
 Use LLM to generate and execute commands in your shell
 
+For background on this project see [llm cmd undo last git commit—a new plugin for LLM](https://simonwillison.net/2024/Mar/26/llm-cmd/)
+
 ## Installation
 
 Install this plugin in the same environment as [LLM](https://llm.datasette.io/).
